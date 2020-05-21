@@ -1,5 +1,5 @@
 # Amir_Portfolio_Welcome
-This is a responsive portfolio that I created from scratch using the technologies I know. At the moment my portfolio is barebones, however I do plan on expanding it in a timely fashion until I can properly make it to my liking and without overworking it. I'll be sure to release multiple versions of the webpage : Initial Completion, more indepth customizations, various device and resolution support, general optimizations and/or more attractive features.
+This is my responsive portfolio that I created from scratch using the technologies I know. At the moment my portfolio is barebones, however I do plan on expanding it in a timely fashion until I can properly make it to my liking and without overworking it. I'll be sure to release multiple versions of the webpage : Initial Completion, more indepth customizations, various device and resolution support, general optimizations and/or more attractive features. I also want this to be as if it were a fully functional website with proper callbacks, being able to navigate everywhere without running into any issues.
 
 # Home
 
@@ -20,7 +20,7 @@ This project tab will include :
 
 # Contact
 
-- This is suppose to be a dropdown box with my contact information for you to better reachout to me.
+- This is suppose to be a dropdown box with my contact information for you to better reachout to me. Wit hit also in a few other locations spread around the website.
 
 # Resume
 
