@@ -38,10 +38,27 @@
                                 <a class="nav-link" href="./Aboutme.html">About Me</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contact</a>
+                                <a class="nav-link" href="#" data-toggle="modal" data-target=".bd-example-modal-sm">Contact</a>
+                                <div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-sm">
+                                        <div class="modal-content">
+                                            <center> Contact Information :
+                                            <!-- <button onclick="copyToClipboard('#email')"> -->
+                                                <div>
+                                                 <p id="email">aamirvand97@gmail.com
+                                                 <p>1(714)-787-7545</p>
+                                                 </p>
+                                                 <!-- <img src="https://img.icons8.com/nolan/20/copy-2.png"/>
+                                                </div>-->
+                                            </button>
+                                            <!--<button onclick="myFunction()">aamirvand97@gmail.com<img src="https://img.icons8.com/nolan/20/copy-2.png"/></button>
+                                            SMS: 1(714)-787-7545--> </center>
+                                        </div>
+                                    </div>
+                                </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://docs.google.com/document/d/1JEKMi4tVlzUk_2UtRQhkpdh1rBUHHOMIoiOXq2KKrss/edit" target="_blank">Resume</a>
+                                <a class="nav-link" href="https://docs.google.com/document/d/1LRd12yRRC70cZAErxzYN_S5e3AkWoGeNABmSkNwlJc8/edit" target="_blank">Resume</a>
                             </li>
                         </ul>
                     </div>
@@ -71,7 +88,7 @@
                             </h4>
                             <div class ="site-buttons">
                                 <div class="d-flex flex-row flex-wrap">
-                                    <button type="button" class="btn button primary-button mr-4 text-uppercase">
+                                    <button onclick="window.location.href = 'https://github.com/amirvand';" class="btn button primary-button mr-4 text-uppercase">
                                         View My Work
                                     </button>
                                 </div>
@@ -100,27 +117,28 @@
             <div class="copyright">
                 <div class="col-lg-6-md-12">
                     <h6>
-                        © 2020
+                       Copyright © 2020 Amir Amirvand
                     </h6>
                 </div>
             </div>
-            <div class="modifications">
+            <!--<div class="modifications">
                 <div class="col-lg-6-md-12">
                     <h6>
                         The last modification of this website was on May 21st, 2020. 
                     </h6>
                 </div>
-            </div>
+            </div>-->
         </div>
     </center>
 </footer>
         <!-- ===================================== End Main Area =================================-->
+        
+        <script src="./JS/scripts.js"></script>
 
         <!-- Jquery JS file -->
         <script src="./JS/jquery.3.4.1.js"></script>
 
         <!-- Bootstrap JS file -->
         <script src="./JS/bootstrap.min.js"></script>
-
     </body>
 </html>
