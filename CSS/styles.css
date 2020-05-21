@@ -19,7 +19,7 @@
     padding-top: 26.5px;
     padding-bottom: 26.5px;
     line-height: 27px;
-    background-color:gray;
+    background-color:lightgray;
 }
 
 .header_area .main-menu .nav-item .nav-link{
@@ -76,8 +76,8 @@
 }
 
 .site-main .site-banner .banner-image > img {
-    padding: 7rem 0;
-    width: 20rem;
+    padding: 14rem 0;
+    width: 30rem;
 }
 
 /* End Banner Area */
@@ -90,5 +90,5 @@
     padding-top: 26.5px;
     padding-bottom: 26.5px;
     line-height: 27px;
-    background-color:gray;
+    background-color:lightgray;
 }
